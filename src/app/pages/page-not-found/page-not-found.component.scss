@@ -1,0 +1,5 @@
+// prevent interaction with giphy
+iframe {
+    overflow: hidden;
+    pointer-events: none;
+}
